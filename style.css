@@ -1,0 +1,14 @@
+h1{
+    font-family: Verdana;
+    text-align: center;
+    color: indianred;
+}
+
+a{
+    text-decoration: none;
+    color: crimson;
+}
+
+a:hover{
+    color: indianred;
+}
