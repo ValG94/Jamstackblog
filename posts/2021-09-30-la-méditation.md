@@ -5,7 +5,7 @@ title: La méditation
 date: 2021-09-30T11:53:04.306Z
 ---
 <!--StartFragment-->
-
+<img src="https://images.unsplash.com/photo-1532798442725-41036acc7489?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1974&q=80" />
 ## Méditer c’est quoi ?
 
 La méditation est à la mode. Pas une semaine sans qu’un journal y consacre un article. On trouve désormais un rayon “méditation” dans tous les bons magasins qui ont leur espace *Développement personnel*, et même des applications pour smartphones ! Mais de quelle méditation parlons-nous? De la méditation Bouddhiste ou Indienne qui nous promet l’Eveil et le Nirvana ? D’une méthode de plus pour atteindre le bien-être ? D’exercices de relaxation guidés par la voix enregistrée d’un *coach* pour mieux supporter durant quelques minutes les soucis de la vie quotidienne ?

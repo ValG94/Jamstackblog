@@ -4,7 +4,7 @@ tags: posts
 title: Dépasser les limites de sa conscience
 
 ---
-<img src="http://meditationzen.blog/wp-content/uploads/2021/07/shutterstock_224342992-1170x648.jpg" />
+<img src="http://meditationzen.blog/wp-content/uploads/2021/07/shutterstock_224342992-1170x648.jpg">
 
 <i>Quand l'égo s'efface, l'amour disparait</i>
 

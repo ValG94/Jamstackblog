@@ -5,8 +5,8 @@ title: Faire silence
 date: 2021-09-30T11:52:26.885Z
 ---
 <!--StartFragment-->
-
-***“L’esprit silencieux est étonnamment actif, vivant et puissant, mais sans aucune visée particulière. Seul cet esprit est littéralement libre…” Jiddu Krishnamurti***
+<img src="https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1219&q=80" />
+<i>“L’esprit silencieux est étonnamment actif, vivant et puissant, mais sans aucune visée particulière. Seul cet esprit est littéralement libre…” Jiddu Krishnamurti</i>
 
 À l’expression faire le vide, je préfère celle de faire silence. D’abord parce qu’on ne peut pas faire le vide, on peut juste prendre conscience du vide. Prendre conscience, par la pratique de la méditation, de l’irréalité de nos constructions mentales auxquelles s’attachent notre ego,  ce que les bouddhistes zen appellent *les bonnos (à ce sujet voir l’article h[ttp://meditationzen.blog/2019/06/02/les-bonnos-sont-ils-des-illusions/](http://meditationzen.blog/2019/06/02/les-bonnos-sont-ils-des-illusions/))* . Faire silence, c’est tout simplement se taire !
 
@@ -14,7 +14,7 @@ Tout le monde peut se faire taire, il suffit d’interrompre ce bavardage incess
 
 Le silence a toujours été associé à la sagesse, à la spiritualité, à l’introspection, à l’expérience mystique, quels que soient les types de méditations. Il occupe une place centrale dans la vie religieuse des moines bouddhistes et chrétiens, mais heureusement on peut y accéder sans être obligé de vivre dans des monastères !
 
-## **Sans silence, pas de musique !**
+<h3>Sans silence, pas de musique !</h3>
 
 Imaginez un morceau de musique sans silence. Ce serait une cacophonie incessante ! Pourtant, c’est souvent ce qui se passe dans nos têtes : trop de notes jouées en même temps, trop de paroles, plus assez d’espace pour les silences et on ne s’entend plus, on n’entend plus les autres, on n’entend plus les harmonies de la vie.
 
