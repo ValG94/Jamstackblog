@@ -1,14 +1,169 @@
-h1{
+@media all and (min-width: 992px) {
+    .header {
+        padding: 0;
+        display: flex;
+        flex-direction: row;
+
+    }
+
+    .nav > ul {
+        display: flex;
+        flex-direction: row;
+
+    }
+}
+
+@media all and (min-width: 576px){
+    .main{
+        font-size: small;
+
+    }
+
+    .header{
+        display: flex;
+        flex-direction: column;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .nav > ul {
+        flex-direction: column;
+    }
+    .img{
+        max-width: 50%;
+        height: auto;
+        vertical-align: middle;
+    }
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
     font-family: Verdana;
-    text-align: center;
+    background-color: #fff;
+    color: black;
+}
+
+main{
+    flex:1;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: Verdana;
+
+}
+
+header{
+    background: #fff;
+    padding-bottom: 1.33333em;
+    padding-top: 1.33333em;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+}
+
+h1 {
+    font-family: Verdana;
+    text-align: left;
     color: indianred;
 }
 
-a{
+h2{
+    text-align: left;
+    color: darkslategray;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+i{
+    color: indianred;
+}
+
+p{
+    color: darkslategray;
+    text-align: justify;
+}
+
+nav > ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid darkslategray;
+    padding: 0 15px 15px;
+    color: indianred;
+
+}
+
+ol{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-self: center;
+    font-size: smaller;
+}
+
+.div-article-header{
+    padding: 0 0 10px;
+    text-align: center;
+}
+
+.nav-blog{
+    display: flex;
+    padding: 20px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: indianred;
+    text-align: center;
+    text-decoration: none;
+}
+
+.nav{
+    justify-content: space-around;
+    border-left: 0;
+}
+
+a {
     text-decoration: none;
     color: crimson;
 }
 
-a:hover{
-    color: indianred;
+a:hover {
+    color: darkslategray;
+}
+
+.read-more{
+    margin: auto;
+    width: 50%;
+}
+
+ .read-more > a {
+    padding: 7px 22px 5px;
+    line-height: 22px;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    border: 1px solid darkslategray;
+    text-align: center;
+    text-decoration: none;
+    color: darkslategray;
+}
+
+
+footer >p{
+    font-family: Verdana;
+    font-size: 0.8em;
+    text-align: center;
+    background-color: #fff;
 }
