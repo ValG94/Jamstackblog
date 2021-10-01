@@ -40,43 +40,54 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    margin: 0;
     font-family: Verdana;
     background-color: #fff;
     color: black;
+    margin: auto;
 }
 
 main{
     flex:1;
-    padding-right: 10px;
-    padding-left: 10px;
     font-family: Verdana;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
 
 }
 
 header{
+    display: flex;
+    flex-direction: column;
     background: #fff;
     padding-bottom: 1.33333em;
     padding-top: 1.33333em;
     -webkit-box-align: center;
     align-items: center;
-    width: 100%;
+    margin: auto;
+
 }
 
 h1 {
+
     font-family: Verdana;
-    text-align: left;
+    text-align: center;
     color: indianred;
 }
 
 h2{
-    text-align: left;
+    text-align: center;
     color: darkslategray;
 }
+
 img{
-    max-width: 100%;
+    width: 100%;
     height: auto;
     vertical-align: middle;
+}
+
+.about-me{
+    width: 100%;
+    height: auto;
 }
 
 i{
@@ -84,28 +95,57 @@ i{
 }
 
 p{
+    padding-right: 10px;
+    padding-left: 10px;
     color: darkslategray;
     text-align: justify;
 }
 
+/*Nav principale*/
 nav > ul {
     display: flex;
-    flex-direction: row;
     list-style-type: none;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid darkslategray;
-    padding: 0 15px 15px;
+    margin: 0;
+    padding: 0 ;
     color: indianred;
+}
 
+li{
+    border-right: 1px solid crimson;
+    height: 40px;
+}
+
+li:last-child{
+    border-right: none;
+}
+
+li a{
+    display: block;
+    color: crimson;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+/*Nav Blog*/
+
+.nav-blog{
+    border-right: none;
 }
 
 ol{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
     align-self: center;
     font-size: smaller;
+}
+
+.book > li{
+    display: flex;
+    flex-direction: column;
+    border-right: none;
 }
 
 .div-article-header{
@@ -129,7 +169,7 @@ li a {
     text-decoration: none;
 }
 
-.nav{
+nav{
     justify-content: space-around;
     border-left: 0;
 }
@@ -144,18 +184,24 @@ a:hover {
 }
 
 .read-more{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     margin: auto;
-    width: 50%;
+    width: 15%;
+    margin-bottom: 40px;
+
+
 }
 
- .read-more > a {
+ .read-more-link {
     padding: 7px 22px 5px;
     line-height: 22px;
     font-size: 11px;
     font-weight: 400;
     letter-spacing: 1px;
     border: 1px solid darkslategray;
-    text-align: center;
+    align-items: center;
     text-decoration: none;
     color: darkslategray;
 }

@@ -4,7 +4,7 @@ tags: posts
 title: Dépasser les limites de sa conscience
 
 ---
-<img src="https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80">
+<img src="https://images.unsplash.com/photo-1536623975707-c4b3b2af565d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" class="home-img">
 
 <i>Quand l'égo s'efface, l'amour disparait</i>
 

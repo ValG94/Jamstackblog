@@ -12,4 +12,4 @@ permalink: /
 
 Le plus important chez l’homme, c’est son niveau de conscience. Plus son niveau de conscience est élevé, moins il pourra faire de mal. L’être humain qui a une réelle conscience de ce qu’il fait, des conséquences de ses actes et de ses paroles, n’a pas besoin d’obéir aux injonctions d’une morale imposée de l’extérieur. Comment continuer à faire souffrir si l’on comprend et ressent la souffrance que l’on provoque ?
 
-<div class="read-more"><a href="/blog/page-0/" class="read-more">LIRE PLUS</a></div>
+<div class="read-more"><a href="/blog/page-0/" class="read-more-link">LIRE PLUS</a></div>

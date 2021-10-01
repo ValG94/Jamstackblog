@@ -6,6 +6,7 @@ date: 2021-09-30T11:52:26.885Z
 ---
 <!--StartFragment-->
 <img src="https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1219&q=80" />
+
 <i>“L’esprit silencieux est étonnamment actif, vivant et puissant, mais sans aucune visée particulière. Seul cet esprit est littéralement libre…” Jiddu Krishnamurti</i>
 
 À l’expression faire le vide, je préfère celle de faire silence. D’abord parce qu’on ne peut pas faire le vide, on peut juste prendre conscience du vide. Prendre conscience, par la pratique de la méditation, de l’irréalité de nos constructions mentales auxquelles s’attachent notre ego,  ce que les bouddhistes zen appellent *les bonnos (à ce sujet voir l’article h[ttp://meditationzen.blog/2019/06/02/les-bonnos-sont-ils-des-illusions/](http://meditationzen.blog/2019/06/02/les-bonnos-sont-ils-des-illusions/))* . Faire silence, c’est tout simplement se taire !
